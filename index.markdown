@@ -1,18 +1,19 @@
 ---
 layout: page
-title: About
+title: Framework Landing Page
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Read the Playbook Online
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- [About the Framework]()
+- [How To Use the Framework]()
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Case Studies
 
+- [Using the framework with a low-budget organization]()
 
-[jekyll-organization]: https://github.com/jekyll
+# Download the Framework's Resources
+
+- [Download the PDF Copy of the Playbook]()
+- [Download the Excel visualizer]()
