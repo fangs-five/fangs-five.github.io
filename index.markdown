@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Framework Landing Page
 ---
 
 # Read the Playbook Online
