@@ -1,4 +1,5 @@
 ---
+title: Landing Page
 layout: page
 ---
 
