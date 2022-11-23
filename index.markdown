@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Framework Landing Page
-permalink: /about/
+permalink: /home/
 ---
 
 # Read the Playbook Online
