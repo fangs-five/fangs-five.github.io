@@ -1,4 +1,7 @@
-# **Case Stud**ies
+---
+title: Case Studies
+layout: page
+---
 
 ## Low-budget case study
 

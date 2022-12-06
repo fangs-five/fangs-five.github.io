@@ -1,4 +1,7 @@
-# How to use this framework
+---
+title: How To Use The Framework
+layout: page
+---
 
 ## Overview
 

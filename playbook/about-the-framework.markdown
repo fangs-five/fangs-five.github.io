@@ -1,4 +1,7 @@
-# About the Framework
+---
+title: About the Framework
+layout: page
+---
 
 This section explains what the framework is and how to use it. It also
 provides recommendations on how to extend or modify the core principles
