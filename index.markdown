@@ -14,5 +14,5 @@ layout: page
 
 # Download the Framework's Resources
 
-- [Download the PDF Copy of the Playbook](/resources/playbook.pdf)
+- [Download the PDF Copy of the Playbook](/resources/drt-framework.pdf)
 - [Download the Excel visualizer](/resources/framework-visualizer.xlsx)
